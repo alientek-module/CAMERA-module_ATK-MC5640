@@ -1,10 +1,16 @@
 ## 1 Introduction
 
-### 1.1 Features
+### 1.1 Appearence
+
+The ATK-MD5640 module looks like this:
+
+![](figures/01_ATK_MC5640_Module.png)
+
+### 1.2 Features
 
 The ATK-MC5640 module is a high-performance 500W high-definition camera module launched by ALIENTEK. This module uses OmniVision's OV5640 camera sensor as the core, which is a 1/4-inch CMOS QSXGA (2592 * 1944) image sensor. At the same time, the ATK-MC5640 module integrates active crystal oscillators and LDO chips, as well as automatic focus (AF) function and two 1W high brightness LED flash lights, which have a very high cost performance ratio.
 
-### 1.2 Parameter
+### 1.3 Parameter
 
 Here are the product basic parameters:
 
@@ -32,12 +38,6 @@ The electrical parameters are shown in the following table:
 | Supply voltage    | 3.3V                      |
 | IO port level     | 2.8V,compatible with 3.3V |
 | Power dissipation | 56mA                      |
-
-### 1.3 Appearence
-
-The ATK-MD5640 module looks like this:
-
-![](figures/01_ATK_MC5640_Module.png)
 
 ### 1.4 Interface
 
