@@ -4,7 +4,7 @@
 
 The ATK-MD5640 module looks like this:
 
-![](figures/01_ATK_MC5640_Module.png)
+![](1_docs/3_figures/01_ATK_MC5640_Module.png)
 
 ### 1.2 Features
 
@@ -63,4 +63,4 @@ The ATK-MC5640 module is connected to an external circuit through a 2 * 9 pin . 
 
 The schematic diagram of the ATK-MD5640 module is shown as follows.
 
-![](figures/02_ATK_MC5640_SCH.png)
+![](1_docs/3_figures/02_ATK_MC5640_SCH.png)
